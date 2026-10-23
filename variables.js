@@ -1,3 +1,5 @@
+// this includes let , var , const
+
 let a = 1 ;
 a = 2  ;
 console.log(a);
@@ -12,3 +14,4 @@ console.log(b) ;
  var c = 2
  c = 1 
  console.log(c) ;
+
