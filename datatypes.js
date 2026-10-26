@@ -7,3 +7,4 @@ let isMarried = true ;
 console.log("The name of this person is " + Firstname + " his age is " + age ) ;
 
 
+ 
